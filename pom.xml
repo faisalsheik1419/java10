@@ -26,6 +26,11 @@
       <scope>test</scope>
     </dependency>
 <dependency>
+  <groupId>io.aboutcode.stage.persistence.relational</groupId>
+  <artifactId>mysql</artifactId>
+  <version>3.0.15</version>
+</dependency>
+<dependency>
   <groupId>com.google.maps.android</groupId>
   <artifactId>android-maps-utils-apklib</artifactId>
   <version>0.6.1</version>
